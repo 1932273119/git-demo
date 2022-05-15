@@ -1,5 +1,5 @@
-hello git! hello! I love you!
-hello git! hello! I love you too!
+hello git! hello! I love y!
+hello git! hello! I love y too!
 hello git! hello!
 hello git! hello!
 hello git! hello!
